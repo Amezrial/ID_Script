@@ -41,7 +41,7 @@ add_principal identifier.discord:010101010101 group.staff
 
 ## Usage
 
-Press `Left Alt` to toggle the ID display on or off. This action checks permissions to ensure only authorized users can view player IDs.
+Press `Left Alt` to toggle the ID display on or off. This action checks permissions to ensure that only authorized users can view player IDs.
 
 ## Contributions
 
