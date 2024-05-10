@@ -13,6 +13,12 @@ https://github.com/Amezrial/ID_Script
 - ID Display: On (in green) and ID Display: Off (in red) will display when the key bind is initiated. 
 - Check permissions dynamically through Discord roles.
 - Lightweight and easy to integrate into existing FiveM servers.
+  
+![image](https://github.com/Amezrial/ID_Script/assets/44910717/53f74a4c-e01e-4b55-89ee-23d70f6cca5f)
+![image](https://github.com/Amezrial/ID_Script/assets/44910717/145c1577-2317-427e-b7c9-912ff2b531ef)
+
+![image](https://github.com/Amezrial/ID_Script/assets/44910717/be216b54-41a1-4c4a-8d3d-acbcaf53353b)
+
 
 ## Installation
 
