@@ -1,4 +1,4 @@
-# ID Script
+# FiveM ID Script
 
 This repository contains a FiveM script developed by [Amezrial](https://github.com/Amezrial) for displaying player server IDs above their heads in Fivem.
 
