@@ -16,23 +16,20 @@ https://github.com/Amezrial/ID_Script
 
 ## Installation
 
-1. Drag ID_Script into your FiveM resources directory.
-cd path/to/your/resources
+1. Drag ID_Script into your FiveM resources directory
 
 2. Add the following line to your server config to ensure the script is loaded:
 start ID_Script 
-or 
-ensure ID_Script
 
-Define permission for toggling ID display
+Define permission in your Server.cfg for toggling ID display
 add_ace group.Discordgroup "idabovehead.toggle" allow
 add_principal identifier.discord:000000000000 group.Discordgroup
 
 (Make sure this role is in your DiscordAcePerms and Badger_Discord_API)
 
 example:
-add_ace group.staff "idabovehead.toggle" allow                             -- Replace group.staff with Discord Role you want to use.
-add_principal identifier.discord:010101010101 group.staff                  --Replace 010101010101 with your Role ID you want to use. 
+add_ace group.staff "idabovehead.toggle" allow                            
+add_principal identifier.discord:010101010101 group.staff                  
 
 
 
@@ -52,7 +49,7 @@ Contributions are welcome. Please fork the repository and submit pull requests w
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open-source and available to everyone.
 
 ## Contact
 
