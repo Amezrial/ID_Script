@@ -1,9 +1,10 @@
-# ID_Script
-Fivem script for showing player ID's at the push of a button. 
+# ID Script
+
+This repository contains a FiveM script developed by [Amezrial](https://github.com/Amezrial) for displaying player server IDs above their heads in Fivem.
 
 ## Description
 
-The ID_Script enables servers to display player IDs above player heads when certain conditions are met. It is useful for moderators and administrators to easily identify players within the game environment.
+The ID Script enables servers to display player IDs above player heads when certain conditions are met. It is useful for moderators and administrators to easily identify players within the game environment.
 https://github.com/Amezrial/ID_Script
 
 ## Features
@@ -30,8 +31,8 @@ add_principal identifier.discord:000000000000 group.Discordgroup
 (Make sure this role is in your DiscordAcePerms and Badger_Discord_API)
 
 example:
-add_ace group.staff "idabovehead.toggle" allow                       -- Replace group.staff with Discord Role you want to use.
-add_principal identifier.discord:010101010101 group.staff            --Replace 010101010101 with your Role ID you want to use. 
+add_ace group.staff "idabovehead.toggle" allow                             -- Replace group.staff with Discord Role you want to use.
+add_principal identifier.discord:010101010101 group.staff                  --Replace 010101010101 with your Role ID you want to use. 
 
 
 
