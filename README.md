@@ -1,16 +1,16 @@
-# FiveM ID Script
+# FiveM Player ID Script with key bind and Notification
 
 This repository contains a FiveM script developed by [Amezrial](https://github.com/Amezrial) for displaying player server IDs above their heads in Fivem.
 
 ## Description
 
-The ID Script enables servers to display player IDs above player heads when certain conditions are met. It is useful for moderators and administrators to easily identify players within the game environment.
+The ID Script enables servers to display player IDs above player heads when certain conditions are met. It is useful for moderators and administrators to identify players within the game environment easily.
 https://github.com/Amezrial/ID_Script
 
 ## Features
 
 - Toggle display of player IDs using the Left Alt key.
-- ID Display: On (in green) and ID Display: Off (in red) will display when the keybind is initiated. 
+- ID Display: On (in green) and ID Display: Off (in red) will display when the key bind is initiated. 
 - Check permissions dynamically through Discord roles.
 - Lightweight and easy to integrate into existing FiveM servers.
 
